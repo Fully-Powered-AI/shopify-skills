@@ -1,0 +1,4 @@
+Partial: no approver for product data in store file section 7
+products: 2 of 3 in the gap table; left out, not in a product line: 1
+Left out: 1 products not in a product line in store file section 2 (name one with --handles to include it).
+RESULT: PARTIAL

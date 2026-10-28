@@ -1,0 +1,6 @@
+with the date: excluded, 2026-10-21 [observed]
+store/store.md section 2, 3 lines (1 eligible, 1 excluded, 1 unknown)
+- Sparklers: excluded; 'Sparklers' matches 'sparklers' in the excluded category Explosives [observed]
+- Gift boxes: unknown; no category stated [observed]
+- Candles: eligible;
+decides, and gives the reason when a product is not eligible

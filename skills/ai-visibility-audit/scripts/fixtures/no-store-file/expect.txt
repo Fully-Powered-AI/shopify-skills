@@ -1,0 +1,3 @@
+exit 1
+contains: There is no store file
+nofile: visibility/audit-2026-10-21.json

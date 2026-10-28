@@ -1,0 +1,8 @@
+exit 0
+json: V13 fail
+priority: V13 2
+md: green-sencha: 2 of 4 slots (missing: cleanup, size in ounces)
+md: breakfast-black: 3 of 4 slots (missing: cleanup)
+md: cleanup, missing on 2 of 2 pages: check the slot's wording first
+md: add size in ounces to the description text of the pages that lack it
+mdabsent: add the missing facts to the description text

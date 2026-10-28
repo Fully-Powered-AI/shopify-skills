@@ -1,0 +1,2 @@
+fail: agent-guide/agents.md.liquid: sections
+missing '## Who it is for'

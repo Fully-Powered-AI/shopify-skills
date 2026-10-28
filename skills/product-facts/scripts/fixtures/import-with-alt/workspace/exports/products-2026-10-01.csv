@@ -1,0 +1,6 @@
+Handle,Title,Body (HTML),Vendor,Product Category,Type,Tags,Published,Option1 Name,Option1 Value,Variant SKU,Variant Price,Variant Barcode,Image Src,Image Position,Image Alt Text,Status
+tidewater-mug,Tidewater Mug,<p>A 12 oz stoneware mug.</p>,Lantern Lane,Home & Garden > Kitchen & Dining > Tableware > Drinkware > Mugs,Mug,mug,true,Title,Default Title,TW-12,34.00,0123456789012,https://cdn.example/files/tidewater-side.jpg?v=1,1,"Tidewater mug, side view",active
+tidewater-mug,,,,,,,,,,,,,https://cdn.example/files/tidewater-top.jpg?v=1,2,,
+ember-bowl,Ember Bowl,<p>A wide bowl.</p>,Lantern Lane,,Bowl,bowl,true,Size,Medium,,40.00,,https://cdn.example/files/ember.jpg?v=2,1,,active
+ember-bowl,,,,,,,,,Large,EB-L,48.00,,,,,
+reed-vase,Reed Vase,<p>A tall vase.</p>,Lantern Lane,,Vase,,true,Title,Default Title,RV-1,50.00,,https://cdn.example/files/reed.jpg,1,,active

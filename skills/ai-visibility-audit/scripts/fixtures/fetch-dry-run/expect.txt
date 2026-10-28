@@ -1,0 +1,9 @@
+exit 0
+contains: GET https://www.harborleaf.example/products/breakfast-black -> products/breakfast-black.html
+contains: GET https://www.harborleaf.example/products/green-sencha.json
+absent: https://www.harborleaf.example/products/oolong-sampler 
+contains: GET https://www.harborleaf.example/pages/faq -> pages/faq.html
+contains: GET https://www.harborleaf.example/pages/about -> pages/about.html
+absent: pages/wholesale
+absent: REFUSED
+contains: nothing fetched or written

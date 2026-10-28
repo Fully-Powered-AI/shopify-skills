@@ -1,0 +1,9 @@
+UNVERIFIED: import one product first and check it in the admin before importing the rest
+image-alt-update (not found)
+image-rows-on-overwrite (not found)
+description-update (inferred)
+plan: products 2; rows 4 (every row of those products, as exported); cells changed 3; columns changed: Body (HTML) 1, Image Alt Text 2
+  tidewater-mug: description +2 paragraph(s), alt text on 1 image(s); rows 2
+  ember-bowl: alt text on 1 image(s); rows 2
+approved lines read: 5; facts approved (records, not written): 1
+written: products/product-import-2026-10-01.csv

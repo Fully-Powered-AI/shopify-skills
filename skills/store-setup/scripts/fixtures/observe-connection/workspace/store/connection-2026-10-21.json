@@ -1,0 +1,52 @@
+{
+ "read_on": "2026-10-21",
+ "read_by": "the host's Shopify connection",
+ "host": "Claude",
+ "access_level": "read",
+ "shop": {
+  "name": "Fernwood Knitwear",
+  "primary_domain": "https://www.fernwood.example",
+  "myshopify_domain": "fernwood-knit.myshopify.com",
+  "plan": "Shopify",
+  "currency": "GBP",
+  "theme": "",
+  "markets": [
+   "United Kingdom",
+   "Ireland"
+  ]
+ },
+ "products": [
+  {
+   "handle": "merino-crew",
+   "title": "Merino Crew Base Layer",
+   "product_type": "Base layers",
+   "category": "Apparel & Accessories > Clothing > Activewear",
+   "status": "active",
+   "tags": [
+    "merino",
+    "base layer"
+   ]
+  },
+  {
+   "handle": "merino-leggings",
+   "title": "Merino Leggings",
+   "product_type": "Base layers",
+   "category": "Apparel & Accessories > Clothing > Activewear",
+   "status": "active",
+   "tags": [
+    "merino"
+   ]
+  },
+  {
+   "handle": "wool-wash",
+   "title": "Wool Wash",
+   "product_type": "Care",
+   "tags": [],
+   "category": "",
+   "status": "active"
+  }
+ ],
+ "not_returned": [
+  "theme"
+ ]
+}

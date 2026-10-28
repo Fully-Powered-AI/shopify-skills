@@ -1,0 +1,12 @@
+exit 0
+json: V03 fail
+json: V08 fail
+json: V09 fail
+json: V10 fail
+json: V12 fail
+json: V13 fail
+json: V04 pass
+priority: V13 1
+priority: V09 1
+priority: V03 2
+contains: priority 1: V09, V13

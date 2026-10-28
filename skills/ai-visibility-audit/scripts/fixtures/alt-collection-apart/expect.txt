@@ -1,0 +1,4 @@
+exit 0
+json: V12 fail
+priority: V12 2
+md: sampled product pages: 2 of 4 img tags carry non-empty alt (50 percent; breakfast-black 1 of 2, green-sencha 1 of 2)

@@ -1,0 +1,3 @@
+plan: products 1; rows 2
+  ember-bowl: alt text on 1 image(s); rows 2
+approved lines read: 1;

@@ -1,0 +1,13 @@
+{
+  "read_on": "2026-10-21",
+  "read_by": "the host's Shopify connection",
+  "host": "ChatGPT",
+  "access_level": "read",
+  "shop": {"name": "Fernwood Kitchen Goods", "primary_domain": "https://www.fernwood-kitchen.example", "myshopify_domain": "", "plan": "", "currency": "USD", "theme": "", "markets": ["United States"]},
+  "products": [
+    {"handle": "skillet-10-inch", "title": "Cast Iron Skillet, 10 inch", "product_type": "Cookware", "tags": ["Bestseller"], "category": "Home & Garden > Kitchen & Dining > Cookware", "status": "active"},
+    {"handle": "dutch-oven-5-quart", "title": "Dutch Oven, 5 quart", "product_type": "Cookware", "tags": ["Holiday"], "category": "Home & Garden > Kitchen & Dining > Cookware", "status": "active"},
+    {"handle": "maple-spoon", "title": "Maple Spoon", "product_type": "Utensils", "tags": ["Wooden utensils", "Gift"], "category": "Home & Garden > Kitchen & Dining > Kitchen Tools & Utensils", "status": "active"}
+  ],
+  "not_returned": ["plan", "theme"]
+}

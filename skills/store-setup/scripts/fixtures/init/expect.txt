@@ -1,0 +1,5 @@
+CREATED: store/store.md from the template
+# Store file: <store name>
+Template version 0.1.1, 2026-10-21
+- Answer-check prompts (optional), the questions above as a buyer would type them
+  Write `none` on its own indented line, with a mark, for a policy page the store does not publish.

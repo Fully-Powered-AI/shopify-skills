@@ -1,0 +1,1 @@
+products/product-import-2026-10-01.csv|Variant Barcode,Image Src,Image Position,Image Alt Text,Status

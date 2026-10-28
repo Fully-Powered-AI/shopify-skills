@@ -1,0 +1,1 @@
+MALFORMED: section 2, line 26: the product line 'Sauces fermented hot sauces in 5 oz b...' has no name before a colon; write it as `<name>: <what it is>, <who it is for>; category

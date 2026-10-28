@@ -1,0 +1,5 @@
+products not in a product line in store file section 2, left out of the slot counts: 1 of 4 (logo-apron)
+products whose product line needs the owner's confirmation (suggested, or several lines match): 3
+check: product-line items store-setup should fix in section 2: Planters coming soon: no colon after the line's name
+glaze color in 2 of 3 descriptions
+RESULT: COMPLETE

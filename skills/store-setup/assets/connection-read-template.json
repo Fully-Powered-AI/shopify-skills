@@ -1,0 +1,19 @@
+{
+  "read_on": "YYYY-MM-DD",
+  "read_by": "the host's Shopify connection",
+  "host": "the AI tool the read was made in, for example Claude or ChatGPT",
+  "access_level": "read, or read and write, as the connection reports it; empty if it did not say",
+  "shop": {
+    "name": "",
+    "primary_domain": "https://...",
+    "myshopify_domain": "",
+    "plan": "",
+    "currency": "",
+    "theme": "the main theme's name and version if the read returned them, else empty",
+    "markets": ["countries or markets the read returned, one string each"]
+  },
+  "products": [
+    {"handle": "", "title": "", "product_type": "", "tags": ["each tag as returned, one string each; empty list when none"], "category": "the full Shopify product category, as returned", "status": "active, draft or archived"}
+  ],
+  "not_returned": ["each field above the read did not return, by name"]
+}

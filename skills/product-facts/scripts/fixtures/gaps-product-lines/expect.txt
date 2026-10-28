@@ -1,0 +1,7 @@
+Complete: every product had a saved page or product JSON
+products not in a product line in store file section 2, left out of the slot counts: 1 of 2 (ember-bowl)
+capacity in 1 of 1 descriptions
+microwave safety in 0 of 1 descriptions
+microwave safety: check the slot's wording first: missing on most pages read
+products in a product line: 1 of 2, 1 left out of the slot counts
+RESULT: COMPLETE

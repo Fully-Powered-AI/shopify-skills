@@ -1,0 +1,4 @@
+products/gaps-2026-10-01.csv|product line Tidewater suggested by the product type; confirm
+products/gaps-2026-10-01.csv|several lines match: Ember, Tidewater; confirm
+products/gaps-2026-10-01.csv|product line Ember suggested by the tags; confirm
+products/gaps-2026-10-01.csv|logo-apron,Logo Apron,,,1,1,0,0,0,9,,,,,,,json,not in a product line in store file section 2: fact slots not checked

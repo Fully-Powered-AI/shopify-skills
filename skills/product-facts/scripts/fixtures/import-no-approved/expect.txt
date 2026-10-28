@@ -1,0 +1,2 @@
+RESULT: REFUSED, nothing written
+has no [approved] line

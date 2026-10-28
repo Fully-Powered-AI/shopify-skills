@@ -1,0 +1,3 @@
+exit 0
+contains: with the Shopify connection off, 3 rows: store named in 1; recommended in 0, named among several in 1
+contains: 1 row(s) asked with the Shopify connection on, counted apart and left out of these shares (store named in 1 of them)

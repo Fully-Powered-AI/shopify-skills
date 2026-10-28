@@ -1,0 +1,2 @@
+products/facts-2026-10-01.md|## tidewater-mug
+products/facts-2026-10-01.md|- approves changes to product data: not set in section 7; ask

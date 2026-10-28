@@ -1,0 +1,1 @@
+{"product": {"id": 3, "title": "Noodle Dish", "handle": "noodle-dish", "product_type": "", "tags": ["Ember", "sale"], "body_html": "<p>A dish in rust glaze color.</p>", "variants": [{"id": 31, "sku": "ND", "price": "25.00"}], "images": []}}

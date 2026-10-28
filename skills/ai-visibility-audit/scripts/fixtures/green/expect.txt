@@ -1,0 +1,26 @@
+exit 0
+contains: complete: every applicable check ran
+file: visibility/audit-2026-10-21.json
+file: visibility/audit-2026-10-21.md
+json: V01 pass
+json: V02 pass
+json: V03 pass
+json: V04 pass
+json: V05 pass
+json: V06 pass
+json: V07 pass
+json: V08 pass
+json: V09 pass
+json: V10 pass
+json: V11 pass
+json: V12 pass
+json: V13 pass
+json: V14 pass
+json: V15 pass
+json: V16 pass
+json: V17 pass
+json: V18 not run
+contains: priority 1: none
+contains: priority 2: none
+md: (1 line(s) differ from agents.md; a mirror allows 3)
+md: collections/all.html, reported apart and not scored

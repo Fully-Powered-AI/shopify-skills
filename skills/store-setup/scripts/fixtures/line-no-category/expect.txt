@@ -1,0 +1,2 @@
+VALID WITH OPEN ITEMS: 0 open, 0 blank optional, 1 to check.
+check: section 2, line 27: the product line 'Crisp': no 'category <path>' or 'same category' part

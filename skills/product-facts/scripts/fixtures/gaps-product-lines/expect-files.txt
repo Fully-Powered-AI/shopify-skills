@@ -1,0 +1,3 @@
+products/gaps-2026-10-01.csv|capacity;dishwasher safety;glaze color,microwave safety,yes,no,yes,yes,json,on the page but not in the description: microwave safety
+products/gaps-2026-10-01.csv|ember-bowl,Ember Bowl,,,2,1,0,1,0,98,,,yes,no,no,no,json,not in a product line in store file section 2: fact slots not checked
+products/gaps-2026-10-01.csv|not in a product line in store file section 2: fact slots not checked

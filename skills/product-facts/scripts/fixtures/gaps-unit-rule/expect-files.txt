@@ -1,0 +1,1 @@
+products/gaps-2026-10-01.csv|harbor-pitcher,Harbor Pitcher,,,1,1,0,1,1,42,size in ounces;glaze color,,

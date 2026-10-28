@@ -1,0 +1,3 @@
+exit 1
+contains: not a product handle: ../admin
+nofile: pages/2026-10-22

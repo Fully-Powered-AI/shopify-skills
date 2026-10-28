@@ -1,0 +1,6 @@
+Partial: alt text unknown for 1 products
+products in a product line: 3; in the file: 2; fine, no block: 1
+Products: 4 in the gap table, 3 in a product line; in the file: 2; fine, no block: 1; left out, not in a product line: 1.
+Inputs missing: alt status for 1 products (harbor-cup): no product JSON or export with alt text was read.
+Fine: every fact slot in the description and no known gap: 1, not in the file (harbor-cup); alt text unknown for 1 of them.
+RESULT: PARTIAL

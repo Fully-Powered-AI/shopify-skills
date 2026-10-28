@@ -1,0 +1,6 @@
+exit 0
+json: V16 fail
+priority: V16 none
+md: closed for this category
+md: Sales channels > Agentic > Sources > Shopify Catalog
+json: V09 pass

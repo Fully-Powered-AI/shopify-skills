@@ -1,0 +1,2 @@
+VALID: every section present
+read store/store.md: 47 fields

@@ -1,0 +1,4 @@
+Written: no alt text is approved, so the image columns are left out and the import rests on Shopify's stated rule that a column left out of the file leaves the stored value unchanged (omitted-column
+still import one product first and check it in the admin
+image columns left out (no approved alt text): Image Src, Image Position, Image Alt Text
+plan: products 1; rows 1 (every row of those products, as exported, less 1 image-only row(s))

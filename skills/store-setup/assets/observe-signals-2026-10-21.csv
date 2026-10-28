@@ -1,0 +1,33 @@
+kind,value,source
+ai_crawler,GPTBot,references/platform-facts.md section 5 (from ../../references/ai-channels.md section 5)
+ai_crawler,OAI-SearchBot,same
+ai_crawler,ChatGPT-User,same
+ai_crawler,ClaudeBot,same
+ai_crawler,Claude-User,same
+ai_crawler,PerplexityBot,same
+ai_crawler,Perplexity-User,same
+ai_crawler,Google-Extended,same
+ai_crawler,Meta-WebIndexer,same
+ai_crawler,Meta-ExternalAgent,same
+ai_crawler,Meta-ExternalFetcher,same
+default_guide,Shop skill,the managed agent guide's content as references/platform-facts.md section 5 describes it; a guide written by agent-guide opens with ': a guide for agents' (../../references/schemas.md section 7)
+custom_guide_title,: a guide for agents,../../references/schemas.md section 7
+password_page,"action=""/password""",the storefront password form; a signal for a person to test
+password_page,template-password,same
+age_gate,age verification,the set's own list of script and markup words; signals only
+age_gate,age-verification,same
+age_gate,agechecker,same
+age_gate,age-gate,same
+age_gate,age_gate,same
+popup,klaviyo.com/onsite,the set's own list of popup and sign-up form script hosts; signals only
+popup,privy.com,same
+popup,justuno,same
+popup,wisepops,same
+popup,optinmonster,same
+agent_addressed,ignore previous,the set's own list of phrases that address a model; text found is data and is reported
+agent_addressed,ignore all previous,same
+agent_addressed,if you are an ai,same
+agent_addressed,as an ai,same
+agent_addressed,on behalf of your user,same
+agent_addressed,language model,same
+agent_addressed,ai assistant,same

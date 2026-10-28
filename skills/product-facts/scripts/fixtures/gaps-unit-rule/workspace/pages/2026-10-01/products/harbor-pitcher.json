@@ -1,0 +1,1 @@
+{"product": {"id": 3, "title": "Harbor Pitcher", "handle": "harbor-pitcher", "product_type": "Pitcher", "body_html": "<p>A 9 oz pitcher in harbor-blue glaze color.</p>", "variants": [{"id": 31, "sku": "HP-9", "barcode": "", "price": "30.00"}], "images": [{"id": 301, "src": "https://cdn.example/files/harbor.jpg", "alt": "Harbor pitcher in harbor-blue glaze, side view"}]}}

@@ -1,0 +1,2 @@
+warning: store file section 2 item 'Wooden utensils, spoons, spatulas and boards turned from maple and cherry, for everyday stirring and serving; category Home & Garden > Kitchen & Dining > Kitchen Tools & Utensils': no colon after the line's name; store-setup fixes the item
+none: 1

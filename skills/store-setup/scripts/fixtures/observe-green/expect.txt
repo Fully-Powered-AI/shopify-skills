@@ -1,0 +1,18 @@
+COMPLETE: wrote store/observed-2026-10-21.md
+- Store name: Northfold Tools [observed]
+- The `.myshopify.com` domain: northfold-tools.myshopify.com [observed]
+- Theme name and version, as the admin shows them under Online Store > Themes: Dawn 15.2.0 [observed]
+- Store currency: CAD [observed]
+  - Planes: 2 products, for example Low-Angle Block Plane; No. 4 Smoothing Plane [observed]
+  - https://shop.northfold.example/policies/terms-of-service [observed]
+  - https://shop.northfold.example/pages/sharpening-guide [observed]
+- Public contact email for buyers and agents, the role that reads it, and the reply-time target: help@northfold.example [observed]
+  - a popup or sign-up form script on the home page (privy.com); whether it blocks the page is untested [observed]
+with the date: eligible, 2026-10-21 [observed]
+- Agent guide: `shopify default` or `custom`, with the date of the last change: shopify default, 2026-10-21 [observed]
+with the date: default, 2026-10-21 [observed]
+- block-plane: "The blade is bedded at 12 degrees for end grain."
+a description sentence addresses a model and was left out of the candidates
+Coverage: used
+note: write each line the person keeps as `<name>: <what it is>, <who it is for>; category <the full Shopify product category path>`
+the admin's own Shopify Catalog screen (Sales channels > Agentic > Sources > Shopify Catalog) decides

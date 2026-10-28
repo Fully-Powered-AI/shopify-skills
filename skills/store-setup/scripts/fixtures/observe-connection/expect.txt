@@ -1,0 +1,13 @@
+PARTIAL: wrote store/observed-2026-10-21.md
+partial: connection read only
+- Shopify plan: Shopify [observed]
+  source: connection, read 2026-10-21
+- Store currency: GBP [observed]
+category Apparel & Accessories > Clothing > Activewear [observed]
+connection (Claude) [observed]
+not judged connection did not return: theme
+note: tags on 2 of 3 products (Measured, the read of 2026-10-21); most used: merino (2), base layer (1)
+Care: 1 product, for example Wool Wash; no category returned [observed]
+note: write each line the person keeps as `<name>: <what it is>, <who it is for>; category
+the connection read, 1 line (1 eligible)
+- category Apparel & Accessories > Clothing > Activewear: eligible;

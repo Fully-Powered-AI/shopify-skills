@@ -1,0 +1,2 @@
+RESULT: REFUSED, nothing written
+the export has no Image Alt Text or Image alt text column, which the approved alt text needs

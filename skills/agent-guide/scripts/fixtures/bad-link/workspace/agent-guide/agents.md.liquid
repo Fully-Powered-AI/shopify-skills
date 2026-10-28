@@ -1,0 +1,53 @@
+# {{ agents.store_name }}: a guide for agents
+
+## What this store is
+
+Fernwood Kitchen Goods sells cast-iron pans and hand-turned wooden utensils for home cooks. Prices are in {{ agents.currency }}. It sells to and ships within the United States and Canada.
+
+## Who it is for
+
+Home cooks who want cookware that lasts and buyers choosing a gift for one.
+
+## The product lines and how to choose
+
+- Cast iron: pre-seasoned skillets and Dutch ovens, for cooks who sear, roast and bake on the stove or in the oven.
+- Wooden utensils: spoons, spatulas and boards turned from maple and cherry, for everyday stirring and serving.
+
+A buyer who wants a pan chooses Cast iron; a buyer who wants tools for an existing set chooses Wooden utensils.
+
+## Facts an agent may state
+
+Every product page states these facts; read the value for a product on its page:
+
+- size or capacity, from the specification sheet
+- material, from the label
+- care instructions, from the label
+
+Statements the store has cleared, verbatim:
+
+- Cast iron: "Seasoned with flaxseed oil before shipping."
+
+## Policies
+
+- Shipping: {{ agents.store_url }}/policies/shipping-policy
+- Refunds and returns: {{ agents.store_url }}/policies/refund-policy
+- Privacy: {{ agents.store_url }}/policies/privacy-policy
+- Terms of service: {{ agents.store_url }}/policies/terms-of-service
+
+## Shopping here as an agent
+
+- Store: {{ agents.store_url }}
+- UCP discovery: {{ agents.ucp_discovery_url }} (UCP versions: {{ agents.ucp_versions }})
+- MCP endpoint: {{ agents.mcp_endpoint_url }}
+- Sitemap: {{ agents.sitemap_url }}
+- Read-only browsing: product pages at {{ agents.store_url }}/products/{handle} and all products at {{ agents.store_url }}/collections/all.
+- Personal shopping agents can use the Shop skill for this store.
+- Identify agent-initiated requests as agent traffic; server-to-server requests and hosted browsers use Web Bot Auth.
+- In a browser, use the store's WebMCP tools for shopping actions rather than scripting page controls.
+- Back off when the store answers 429.
+
+## What not to assume
+
+- This store does not state that its wooden utensils are dishwasher safe.
+- Prices and availability change; read them from the shopping tools or the product page at the time of the request, not from this file.
+- This file carries no contact email or phone number. Questions go through the contact page: {{ agents.store_url }}/pages/faq

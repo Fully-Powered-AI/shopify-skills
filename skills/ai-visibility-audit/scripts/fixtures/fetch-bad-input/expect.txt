@@ -1,0 +1,3 @@
+exit 1
+contains: is not the public domain in store file section 1
+nofile: pages/2026-10-22

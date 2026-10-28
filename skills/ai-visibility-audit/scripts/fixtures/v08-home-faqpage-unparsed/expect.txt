@@ -1,0 +1,5 @@
+exit 0
+json: V08 fail
+md: home.html carries a FAQPage block that does not parse (1 unparsed JSON-LD block(s)); fix the theme block
+md: repair the home page's JSON-LD block in the theme so it parses
+mdabsent: which does not count: no standalone FAQ or guide page

@@ -1,0 +1,3 @@
+exit 1
+contains: malformed:
+contains: settings must record 'shopify connection: off' or 'shopify connection: on'

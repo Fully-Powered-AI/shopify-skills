@@ -1,0 +1,2 @@
+Partial: 2 only suggested by the product type, tags or category.
+from store/connection-2026-10-21.json; matched one line: 1; suggested: 2; none: 0; several: 0

@@ -1,0 +1,2 @@
+Result: partial
+skipped: agent-guide/agents.md.liquid: links

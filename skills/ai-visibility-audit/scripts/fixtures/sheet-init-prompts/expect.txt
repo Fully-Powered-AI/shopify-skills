@@ -1,0 +1,5 @@
+exit 0
+contains: 15 rows (3 questions x 5 assistants)
+contains: Discovery prefix added to: Q2.
+contains: Brand questions (name the store or a line; they test what an assistant knows, not whether it finds the store): Q3.
+file: visibility/answers/2026-10-22.md

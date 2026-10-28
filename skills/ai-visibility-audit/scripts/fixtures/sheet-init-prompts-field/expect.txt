@@ -1,0 +1,8 @@
+exit 0
+contains: Questions written from the answer-check prompts in store file section 4, verbatim: Q1, Q2.
+contains: section 4 has 3 buyer questions and 2 answer-check prompts
+contains: Discovery prefix added to: Q3.
+filehas: visibility/answers/2026-10-22.md | Q1 | Which loose leaf black tea is good for a strong morning cup? | ChatGPT |  | shopify connection:  |
+filehas: visibility/answers/2026-10-22.md | Q2 | How long should green tea steep so it is not bitter? |
+filehas: visibility/answers/2026-10-22.md | Q3 | I'm shopping for loose leaf tea. Is it caffeine-free? |
+filehas: visibility/answers/2026-10-22.md no Shopify connection to this store

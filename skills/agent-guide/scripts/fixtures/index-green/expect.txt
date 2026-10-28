@@ -1,0 +1,3 @@
+Complete.
+matched one line: 3; suggested: 0; none: 0
+Wrote agent-guide/product-index-2026-10-21.md.

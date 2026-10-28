@@ -1,0 +1,2 @@
+warning: agent-guide/agents.md.liquid: product lines named: named: Cast iron; not named: Wooden utensils
+Wrote agent-guide/check-2026-10-21.md.

@@ -1,0 +1,4 @@
+PARTIAL: wrote store/observed-2026-10-21.md
+missing: pages/2026-10-21/agents.md
+missing: pages/2026-10-21/policies/terms-of-service.html
+partial: 2 expected page(s) missing

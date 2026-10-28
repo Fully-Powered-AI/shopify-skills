@@ -1,0 +1,3 @@
+VALID WITH OPEN ITEMS: 1 open, 1 blank optional.
+section 1, line 14: open: Shopify plan:
+blank (optional): Analytics in use:

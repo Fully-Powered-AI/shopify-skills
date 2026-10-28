@@ -1,0 +1,5 @@
+handle,title,status,product_category,variants,variants_with_sku,variants_with_barcode,images,images_with_alt,description_chars,fact_slots_found,fact_slots_missing,jsonld_product,jsonld_rating,jsonld_faq,meta_description,source,notes
+tidewater-mug,Tidewater Mug,,,1,1,1,2,1,80,capacity;dishwasher safety;glaze color,microwave safety,yes,no,yes,yes,json,
+ember-bowl,Ember Bowl,,,2,1,0,1,0,40,,capacity;dishwasher safety;microwave safety;glaze color,yes,no,no,no,json,thin: 0 of 4 fact slots in the description
+lantern-gift-card,Lantern Lane Gift Card,,,1,0,,1,0,30,,,yes,no,no,yes,json,not in a product line in store file section 2: fact slots not checked
+harbor-cup,Harbor Cup,,,1,1,1,2,,95,capacity;dishwasher safety;microwave safety;glaze color,,yes,yes,yes,yes,json,

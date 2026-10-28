@@ -1,0 +1,2 @@
+fail: agent-guide/agents.md.liquid: template placeholders
+line(s) 53

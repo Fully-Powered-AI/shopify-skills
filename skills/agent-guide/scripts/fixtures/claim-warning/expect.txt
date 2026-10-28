@@ -1,0 +1,3 @@
+Result: warnings only
+warning: agent-guide/agents.md.liquid: claim words
+line 13: best

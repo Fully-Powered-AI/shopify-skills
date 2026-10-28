@@ -1,0 +1,3 @@
+UNVERIFIED: import one product first and check it in the admin before importing the rest
+image-alt-update (not found)
+image-rows-on-overwrite (not found)

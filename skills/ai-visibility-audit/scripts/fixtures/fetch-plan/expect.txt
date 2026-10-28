@@ -1,0 +1,5 @@
+exit 2
+contains: plan only: nothing fetched
+contains: Refused always: /account, /admin, /cart, /checkout, /checkouts, /orders
+contains: Request bound: 13 fixed paths, plus one per child sitemap the index names, plus
+nofile: pages/2026-10-22

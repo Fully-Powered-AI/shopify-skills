@@ -1,0 +1,4 @@
+with the date: eligible, 2026-10-21 [observed]
+store/store.md section 2, 2 lines (2 eligible)
+- Beans: eligible; Food, Beverages & Tobacco > Beverages > Coffee matched no listed category by its words [observed]
+the admin's own Shopify Catalog screen (Sales channels > Agentic > Sources > Shopify Catalog) decides

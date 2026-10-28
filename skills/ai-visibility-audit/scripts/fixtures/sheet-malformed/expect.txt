@@ -1,0 +1,5 @@
+exit 1
+contains: malformed:
+contains: store_named must be yes or no
+contains: asked_on must be a date
+contains: cited_urls must be full URLs

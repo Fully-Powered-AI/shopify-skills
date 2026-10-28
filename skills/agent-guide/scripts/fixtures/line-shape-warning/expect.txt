@@ -1,0 +1,2 @@
+Result: warnings only: 1 warning(s), 0 skipped
+warning: store/store.md: product-line items: 'Wooden utensils': no 'category <path>' or 'same category' part; fix the item with store-setup

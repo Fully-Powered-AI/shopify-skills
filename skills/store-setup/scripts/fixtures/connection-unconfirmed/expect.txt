@@ -1,0 +1,2 @@
+VALID WITH OPEN ITEMS: 0 open, 0 blank optional, 1 to check.
+check: section 8 lists connection, but section 5 says the connection is not confirmed

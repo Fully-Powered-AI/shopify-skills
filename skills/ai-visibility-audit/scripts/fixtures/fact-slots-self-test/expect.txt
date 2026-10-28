@@ -1,0 +1,2 @@
+exit 0
+contains: self-test: 0 failure(s)

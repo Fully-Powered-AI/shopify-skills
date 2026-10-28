@@ -1,0 +1,4 @@
+Complete
+products: 2 of 2 in the gap table
+empty lines written: facts 5, alt text 2, FAQ 6, body additions 2
+RESULT: WRITTEN

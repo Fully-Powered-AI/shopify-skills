@@ -1,0 +1,8 @@
+Flagged: fix or mark [open] before the approver reads it
+lines checked: 7; flags: 5
+line 7 (tidewater-mug, facts): no source of a known kind
+line 8 (tidewater-mug, facts): empty value
+over the 125 Shopify recommends
+carries the redline 'mass-produced' (store file section 3)
+line 14 (tidewater-mug, faq): empty answer
+RESULT: FLAGGED

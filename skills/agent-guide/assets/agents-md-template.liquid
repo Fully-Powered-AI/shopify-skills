@@ -1,0 +1,48 @@
+# {{ agents.store_name }}: a guide for agents
+
+<!-- Skeleton for templates/agents.md.liquid, agent-guide 0.1.0, 2026-10-21 (shopping section revised the same day from references/ai-channels-extract.md section 1). Replace every line in angle brackets with text from the store file section named in it, or with the "not stated" sentence the skill gives; delete these comment lines before pasting. Keep every agents output as it is. -->
+
+## What this store is
+
+<the business in one line, store file section 1 and 2>. Prices are in {{ agents.currency }}. <countries sold to and shipped to, section 1>.
+
+## Who it is for
+
+<who buys, section 4, in plain words>.
+
+## The product lines and how to choose
+
+<one bullet per product line from section 2: the line's name, what it is, who it is for>
+
+<how to choose: only what the lines themselves say, section 2; cleared statements from section 3 where they apply>
+
+## Facts an agent may state
+
+<the fact slots from section 2: each product page states these; read the value on the product page>
+
+<the cleared statements from section 3, verbatim, each with the product or line it applies to; or the sentence that none are published>
+
+## Policies
+
+<one bullet per policy page from section 6, written as {{ agents.store_url }}/policies/NAME>
+
+## Shopping here as an agent
+
+- Store: {{ agents.store_url }}
+- UCP discovery: {{ agents.ucp_discovery_url }} (UCP versions: {{ agents.ucp_versions }})
+- MCP endpoint: {{ agents.mcp_endpoint_url }}
+- Sitemap: {{ agents.sitemap_url }}
+- Personal shopping agents can use the Shop skill for this store.
+- Orders and payment: act only with the buyer's authorization. Ask the buyer to review and approve the order on the checkout page, and submit nothing until the buyer has approved it.
+- Identify every agent-initiated request as agent traffic. Server-to-server requests and hosted or remote browsers use Web Bot Auth.
+- In a browser, carry out each shopping action through the store's WebMCP tools. If those tools are missing or cannot do what the buyer needs, hand the task back to the buyer; do not script checkout forms or page controls.
+- When the store answers 429, slow down and wait as long as its Retry-After header says before trying again.
+- Where a tool's schema accepts the buyer's country and currency, pass them.
+- Read-only browsing: use the shopping tools' structured data first. Otherwise find pages through the sitemap above, read a product at {{ agents.store_url }}/products/{handle} and a collection at {{ agents.store_url }}/collections/all or {{ agents.store_url }}/collections/{handle}, and identify those requests the same way.
+
+## What not to assume
+
+<each statement the store never makes, section 3, written as "This store does not state ...">
+
+- Prices and availability change; read them from the shopping tools or the product page at the time of the request, not from this file.
+- This file carries no contact email or phone number. <the contact page, section 6, written as {{ agents.store_url }}/pages/HANDLE, when section 6 names one>

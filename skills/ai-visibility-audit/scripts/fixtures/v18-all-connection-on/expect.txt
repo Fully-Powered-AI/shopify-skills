@@ -1,0 +1,4 @@
+exit 0
+json: V18 fail
+priority: V18 2
+md: every filled row was asked with the Shopify connection on, so nothing was measured

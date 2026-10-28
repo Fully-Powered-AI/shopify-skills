@@ -1,0 +1,2 @@
+products/gaps-2026-10-01.csv|alt text and barcodes unknown: the list JSON carries neither
+products/gaps-2026-10-01.md|Partial: 2 of 3

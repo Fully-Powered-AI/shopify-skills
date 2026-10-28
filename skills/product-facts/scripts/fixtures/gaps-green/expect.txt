@@ -1,0 +1,13 @@
+Complete: every product had a saved page or product JSON
+rows read: 2; rows written: 2
+capacity in 1 of 2 descriptions
+dishwasher safety in 1 of 2 descriptions
+microwave safety in 0 of 2 descriptions
+glaze color in 1 of 2 descriptions
+images with alt text (Measured, from the files read on 2026-10-01): 1 of 3 images where alt is known
+variants with sku (Measured, from the files read on 2026-10-01): 2 of 3
+saved pages read: 2; Product JSON-LD on 2, ratings on 0, FAQPage on 1, meta description on 1
+fact slots marked [open] in store file section 2, not checked: 1
+1 products carry text addressed to an assistant, not acted on
+Product JSON-LD on every saved product page
+RESULT: COMPLETE

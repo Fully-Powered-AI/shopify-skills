@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /admin
+Disallow: /cart
+Allow: /
+
+Sitemap: https://www.harborleaf.example/sitemap.xml

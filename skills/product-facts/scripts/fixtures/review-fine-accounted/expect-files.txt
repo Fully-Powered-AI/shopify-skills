@@ -1,0 +1,5 @@
+products/facts-2026-10-01.md|## tidewater-mug
+products/facts-2026-10-01.md|## ember-bowl
+products/facts-2026-10-01.md|Fine: every fact slot in the description and no known gap: 1, not in the file (harbor-cup)
+products/facts-2026-10-01.md|Inputs missing: alt status for 1 products (harbor-cup)
+products/facts-2026-10-01.md|in the file: 2; fine, no block: 1; left out, not in a product line: 1.

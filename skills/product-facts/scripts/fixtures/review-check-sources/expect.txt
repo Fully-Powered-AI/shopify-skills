@@ -1,0 +1,3 @@
+Clean
+lines checked: 6; flags: 0
+RESULT: CLEAN

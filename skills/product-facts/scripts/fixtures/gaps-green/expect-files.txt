@@ -1,0 +1,8 @@
+products/gaps-2026-10-01.csv|handle,title,status,product_category,variants,variants_with_sku,variants_with_barcode,images,images_with_alt,description_chars,fact_slots_found,fact_slots_missing,jsonld_product,jsonld_rating,jsonld_faq,meta_description,source,notes
+products/gaps-2026-10-01.csv|tidewater-mug,Tidewater Mug,,,1,1,1,2,1,
+products/gaps-2026-10-01.csv|capacity;dishwasher safety;glaze color,microwave safety,yes,no,yes,yes,json,on the page but not in the description: microwave safety
+products/gaps-2026-10-01.csv|ember-bowl,Ember Bowl,,,2,1,0,1,0,
+products/gaps-2026-10-01.csv|thin: 0 of 4 fact slots in the description
+products/gaps-2026-10-01.csv|structured data lacks: brand;sku;gtin or mpn;description;category;aggregateRating
+products/gaps-2026-10-01.md|# Product gaps, 2026-10-01
+products/gaps-2026-10-01.md|Coverage.

@@ -1,0 +1,7 @@
+RESULT: REFUSED, nothing written
+No products export was given
+apply the approved lines by hand in the admin or through the host's connection one product at a time
+Approved lines by product, to apply by hand
+  tidewater-mug: 4 approved line(s)
+    alt text: https://cdn.example/files/ember.jpg: Ember bowl in rust-red glaze, medium size, three-quarter view
+  ember-bowl: 1 approved line(s)

@@ -1,0 +1,6 @@
+pages/2026-10-21/robots.txt
+pages/2026-10-21/agents.md
+pages/2026-10-21/products/breakfast-black.html
+pages/2026-10-21/products/green-sencha.html
+pages/2026-10-21/home.html
+pages/2026-10-21/policies/refund-policy.html

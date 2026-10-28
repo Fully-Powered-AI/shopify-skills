@@ -1,0 +1,4 @@
+size in ounces in 1 of 1 descriptions
+glaze color in 1 of 1 descriptions
+Fine: size in ounces in every in-line description (1 of 1)
+RESULT: COMPLETE

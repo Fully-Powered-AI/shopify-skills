@@ -1,0 +1,3 @@
+Result: pass: every check passed.
+Set the earlier report aside as agent-guide/superseded/check-2026-10-21-1.md.
+Wrote agent-guide/check-2026-10-21.md.

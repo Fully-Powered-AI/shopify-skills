@@ -1,0 +1,13 @@
+{
+  "read_on": "2026-10-21",
+  "read_by": "the host's Shopify connection",
+  "host": "Claude",
+  "access_level": "read",
+  "shop": {"name": "Fernwood Kitchen Goods", "primary_domain": "https://www.fernwood-kitchen.example", "myshopify_domain": "", "plan": "", "currency": "USD", "theme": "", "markets": ["United States"]},
+  "products": [
+    {"handle": "skillet-10-inch", "title": "Cast Iron Skillet, 10 inch", "product_type": "Cookware", "category": "", "status": "active"},
+    {"handle": "maple-spoon", "title": "Maple Spoon (Wooden Utensils)", "product_type": "Utensils", "category": "", "status": "active"},
+    {"handle": "test-pan", "title": "Cast Iron Test Pan", "product_type": "", "category": "", "status": "draft"}
+  ],
+  "not_returned": ["plan", "theme"]
+}

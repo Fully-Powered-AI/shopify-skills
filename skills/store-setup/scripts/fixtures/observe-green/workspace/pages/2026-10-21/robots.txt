@@ -1,0 +1,6 @@
+# Invented storefront robots file for a fixture.
+User-agent: *
+Disallow: /admin
+Disallow: /cart
+Disallow: /checkout
+Sitemap: https://shop.northfold.example/sitemap.xml

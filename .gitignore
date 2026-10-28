@@ -1,0 +1,45 @@
+# Local work and generated artifacts (root-anchored to retain offline fixtures)
+/workspace/
+/workspaces/
+/local-workspace/
+/run/
+/runs/
+/source-material/
+/source-material-md/
+/build/
+/dist/
+/client-findings/
+/decks/
+/cost-logs/
+/store/
+/pages/
+/exports/
+/products/
+/visibility/
+/agent-guide/
+/brand-strategy*.md
+/choices-record.md
+/validation-kit.md
+
+# Secrets and machine-local settings
+.env
+.env.*
+!.env.example
+/secrets/
+/credentials/
+*.pem
+*.key
+*.p12
+*.pfx
+.DS_Store
+.idea/
+.vscode/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+*.egg-info/

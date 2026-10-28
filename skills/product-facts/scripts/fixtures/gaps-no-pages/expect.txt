@@ -1,0 +1,3 @@
+Partial: 2 of 3 products have no saved product page or product JSON
+no saved page or product JSON for 2 products: ember-bowl;reed-vase
+RESULT: PARTIAL

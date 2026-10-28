@@ -1,0 +1,5 @@
+Handle,Title,Body (HTML),Vendor,Product Category,Type,Tags,Published,Option1 Name,Option1 Value,Variant SKU,Variant Price,Variant Barcode,Image Src,Image Position,Image Alt Text,Status
+tidewater-mug,Tidewater Mug,"<p>A 12 oz stoneware mug.</p><p><strong>Is it safe in the microwave?</strong><br>Yes, the care card says it is microwave safe.</p><p>The Tidewater mug is microwave safe, as its care card states.</p>",Lantern Lane,Home & Garden > Kitchen & Dining > Tableware > Drinkware > Mugs,Mug,mug,true,Title,Default Title,TW-12,34.00,0123456789012,https://cdn.example/files/tidewater-side.jpg?v=1,1,"Tidewater mug, side view",active
+tidewater-mug,,,,,,,,,,,,,https://cdn.example/files/tidewater-top.jpg?v=1,2,"Tidewater mug in sea-glass glaze seen from above, showing the speckled interior",
+ember-bowl,Ember Bowl,<p>A wide bowl.</p>,Lantern Lane,,Bowl,bowl,true,Size,Medium,,40.00,,https://cdn.example/files/ember.jpg?v=2,1,"Ember bowl in rust-red glaze, medium size, three-quarter view",active
+ember-bowl,,,,,,,,,Large,EB-L,48.00,,,,,

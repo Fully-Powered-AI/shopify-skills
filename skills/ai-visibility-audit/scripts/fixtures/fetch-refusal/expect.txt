@@ -1,0 +1,8 @@
+exit 0
+contains: REFUSED https://cdn.other.example/sitemap_products_2.xml: off the domain
+contains: REFUSED https://other-store.example/products/borrowed-tea: off the domain
+contains: REFUSED https://www.harborleaf.example/fr/cart/pages/faq: refused path /cart
+contains: REFUSED https://www.harborleaf.example/account/pages/contact: refused path /account
+contains: GET https://www.harborleaf.example/products/breakfast-black -> products/breakfast-black.html
+absent: borrowed-tea.html
+contains: REFUSED https://www.harborleaf.example/orders/pages/guide: refused path /orders

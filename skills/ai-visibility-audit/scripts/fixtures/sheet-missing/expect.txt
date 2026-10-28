@@ -1,0 +1,4 @@
+exit 2
+contains: partial:
+contains: Q2 / ChatGPT: row not filled
+contains: Q2 / Claude: no row

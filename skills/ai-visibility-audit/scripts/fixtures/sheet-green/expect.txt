@@ -1,0 +1,6 @@
+exit 0
+contains: complete:
+contains: store named in 2
+contains: recommended in 1, named among several in 1
+contains: store's own pages cited 2 times
+contains: forum.example (2)
