@@ -1,6 +1,8 @@
 # Shopify Skills
 
-Part of **Fully Powered Capability Templates** by [Fully Powered AI](https://fullypowered.ai/).
+Part of **FullyPowered Workflow Templates** by [FullyPowered AI](https://fullypowered.ai/).
+
+These are examples and a starting point, not a complete set. FullyPowered AI can build any workflow for your company, including one that runs several steps, in a [Workflow Sprint or a scoped implementation](https://fullypowered.ai/pricing/).
 
 Four skills for preparing and reviewing a Shopify store's public information for AI assistants and shopping agents. They use a shared store file, saved pages and exports; an existing Shopify connection is optional.
 
@@ -56,4 +58,4 @@ These suites use invented store data and temporary workspace copies. Fetch cases
 
 This is the public release edition of a private authoring project. Updates are prepared in that project and released here explicitly; the two editions are not automatically merged. Keep local store or company work in a separate workspace.
 
-[MIT](LICENSE), copyright 2026 Fully Powered AI. Third-party source acknowledgments and recorded upstream license terms remain in [SOURCES.md](SOURCES.md); this license does not relicense the cited source materials.
+[MIT](LICENSE), copyright 2026 FullyPowered AI. Third-party source acknowledgments and recorded upstream license terms remain in [SOURCES.md](SOURCES.md); this license does not relicense the cited source materials.
