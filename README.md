@@ -5,7 +5,7 @@ FullyPowered Workflow Templates for online store teams turn the AI your store al
 We are FullyPowered AI. We build AI workflows for companies, and these are the templates we start from. We publish them because a good starting point should be open to everyone. Copy one. Change it. Make it yours.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for online store teams](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=shopify-skills-readme&from=gh-shopify-skills-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=shopify-skills-readme&from=gh-shopify-skills-readme) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for online store teams](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=shopify-skills-readme&from=gh-shopify-skills-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=shopify-skills-readme&from=gh-shopify-skills-readme). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Who this is for**
 
@@ -26,13 +26,21 @@ We are FullyPowered AI. We build AI workflows for companies, and these are the t
 1. **Try it now with one product.** Pick one product. Copy the instruction below into the AI assistant you already use. Fill in the four lines at the end with that product's details, then send it. Nothing on your store changes.
 
    ```text
-   Help me fill the gaps on one product page of my online store. I will paste the product description, the text from its label or spec sheet, a one-line note on what the main photo shows, and a few questions buyers ask.
+   Help me fill the gaps on one product page of my online store. I will
+   paste the product description, the text from its label or spec sheet, a
+   one-line note on what the main photo shows, and a few questions buyers
+   ask.
 
-   1. List each fact the label states that the description leaves out. Put the source in brackets after each one.
-   2. Write one line of alt text for the main photo: what the item is, the product name, the size or variant, and the view.
-   3. Answer each buyer question using only the label and the description, and name the source. If neither one says, mark the line Open and write the question I should ask the owner.
+   1. List each fact the label states that the description leaves out. Put
+   the source in brackets after each one.
+   2. Write one line of alt text for the main photo: what the item is, the
+   product name, the size or variant, and the view.
+   3. Answer each buyer question using only the label and the description,
+   and name the source. If neither one says, mark the line Open and write
+   the question I should ask the owner.
 
-   Mark every line Proposed. Do not invent facts. Do not change my existing description.
+   Mark every line Proposed. Do not invent facts. Do not change my existing
+   description.
 
    Description: [paste here]
    Label or spec sheet: [paste here]
