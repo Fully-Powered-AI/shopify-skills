@@ -48,7 +48,7 @@ We are FullyPowered AI. We build AI workflows for companies, and these are the t
    Buyer questions: [two or three]
    ```
 
-2. Read what comes back. It marks what it checked and what is left for you. What a result looks like, for an invented candle shop:
+2. Read what comes back. It marks what it checked and what is left for you. What a result looks like, for a candle shop:
 
    ```text
    Juniper Hollow soy candle, 9 oz
@@ -120,7 +120,7 @@ bash skills/agent-guide/scripts/fixtures/run_fixtures.sh
 bash skills/product-facts/scripts/fixtures/run_fixtures.sh
 ```
 
-These suites use invented store data and temporary workspace copies. Fetch cases use dry-run, plan-only or rejected inputs and make no network requests. They check deterministic behavior, not recommendation ranking, model quality or live connector compatibility.
+These suites use sample store data and temporary workspace copies. Fetch cases use dry-run, plan-only or rejected inputs and make no network requests. They check deterministic behavior, not recommendation ranking, model quality or live connector compatibility.
 
 ## Releases and license
 
